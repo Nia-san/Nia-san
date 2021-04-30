@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile !
-
+『👑』
 I'm freelancer/investisor.
-### 💼 nia.minkan@gmail.com |📍 Seoul, South Korea | 🔗 [Website](https://nia-san.github.io/Nia-san/)
+### 『💼 nia.minkan@gmail.com |📍 Seoul, South Korea | 🔗 [Website](https://nia-san.github.io/Nia-san/)』
 You can use the [editor on GitHub](https://github.com/Nia-san/Nia-san/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
