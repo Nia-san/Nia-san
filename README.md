@@ -1,7 +1,9 @@
 # 👋 Welcome to my profile !
 
 I'm freelancer/investisor.
-『💼 nia.minkan@gmail.com |📍 Seoul, South Korea | 🔗 [Website](https://nia-san.github.io/Nia-san/)』
+```markdown
+💼 nia.minkan@gmail.com |📍 Seoul, South Korea | 🔗 [Website](https://nia-san.github.io/Nia-san/)
+```
 
 
 ### Speak language
