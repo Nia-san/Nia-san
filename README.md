@@ -1,11 +1,14 @@
-## Welcome to my profile !
+## 👋 Welcome to my profile !
 
+I'm freelancer/investisor.
+📍 🇰🇷 Seoul, South Korea
+🔗 https://nia-san.github.io/Nia-san/
 You can use the [editor on GitHub](https://github.com/Nia-san/Nia-san/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### Speak language
+🇫🇷 🇰🇷 🇯🇵 🇺🇸
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
