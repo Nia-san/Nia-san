@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile !
 
 I'm freelancer/investisor.
-### 📍 🇰🇷 Seoul, South Korea
+### 📍 Seoul, South Korea 🇰🇷
 ### 🔗 https://nia-san.github.io/Nia-san/
 You can use the [editor on GitHub](https://github.com/Nia-san/Nia-san/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
