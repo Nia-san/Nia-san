@@ -2,8 +2,7 @@
 
 I'm freelancer/investisor.
 ```markdown
-💼 nia.minkan@gmail.com |📍 Seoul, South Korea | 🔗 [Website](https://nia-san.github.io/Nia-san/) http://github.com - automatic!
-[GitHub](http://github.com)
+💼 nia.minkan@gmail.com |📍 Seoul, South Korea | 🔗 [Website](https://nia-san.github.io/Nia-san/)
 ```
 
 ### Speak language
